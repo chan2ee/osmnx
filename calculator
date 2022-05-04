@@ -1,0 +1,15 @@
+import setuptools
+
+setuptools.setup (
+include_package_data = True,
+name = 'mycalc0001',
+version = '0.0.1' ,
+description = 'oss-dev my calculator 0001' ,
+author = 'chan' ,
+author_email = https://github.com/chan2ee/osmnx.git,
+download_url =
+install_requires = ['pytest'],
+long_description = ''
+long_description_content_type =
+classifiers = [].
+)
